@@ -1,4 +1,4 @@
-Import Switch from the picozero library then set the pins for a single switch, use the following code:
+Importer Switch depuis la bibliothèque picozero puis définir les broches pour un seul interrupteur, utilise le code suivant :
 
 --- code ---
 ---
