@@ -1,10 +1,10 @@
-title: Set the pins for a single switch
+title: Définir les broches pour un seul interrupteur
 hero_image: images/banner.png
-description: How to set the pins for a single switch on a Raspberry Pi Pico
+description: Comment définir les broches pour un seul interrupteur sur un Raspberry Pi Pico
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-02-14"
 steps:
   - 
-    title: Set the pins for a single switch
+    title: Définir les broches pour un seul interrupteur
