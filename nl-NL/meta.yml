@@ -1,3 +1,4 @@
+---
 title: Stel de pinnen voor een enkele schakelaar in
 hero_image: images/banner.png
 description: Hoe je de pinnen instelt voor een enkele schakelaar op een Raspberry Pi Pico
@@ -6,5 +7,4 @@ listed: false
 copyedit: false
 last_tested: "2022-02-14"
 steps:
-  - 
-    title: Stel de pinnen voor een enkele schakelaar in
+  - title: Stel de pinnen voor een enkele schakelaar in
