@@ -2,14 +2,9 @@ Importer Switch depuis la bibliothèque picozero puis définir les broches pour 
 
 --- code ---
 ---
-language: python 
-filename: 
-line_numbers: false 
-line_number_start: 1
+language: python filename: line_numbers: false line_number_start: 1
 line_highlights:
 ---
 from picozero import Switch
 
-interrupteur = Switch(18)
-
---- /code ---
+switch = Switch(18) --- /code ---
