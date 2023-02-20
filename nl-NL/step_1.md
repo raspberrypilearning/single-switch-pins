@@ -1,4 +1,4 @@
-Import Switch from the picozero library then set the pins for a single switch, use the following code:
+Importeer Switch uit de picozero-bibliotheek en stel vervolgens de pinnen in voor een enkele schakelaar, gebruik daarbij de volgende code:
 
 --- code ---
 ---
