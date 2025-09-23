@@ -2,14 +2,9 @@ Importeer Switch uit de picozero-bibliotheek en stel vervolgens de pinnen in voo
 
 --- code ---
 ---
-language: python 
-filename: 
-line_numbers: false 
-line_number_start: 1
+language: python filename: line_numbers: false line_number_start: 1
 line_highlights:
 ---
 from picozero import Switch
 
-schakelaar = Switch(18)
-
---- /code ---
+switch = Switch(18) --- /code ---
